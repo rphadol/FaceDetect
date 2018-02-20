@@ -1,2 +1,14 @@
 # FaceDetectionOpenCv
-Detect Face using OpenCv,Java and android
+### Description
+Andriod Application to detect Faces in camera using OpenCv,Java and android 
+### Languages
+java, XML
+
+### Main Files
+conent_main.xml, MainActivity.java
+
+### Steps to run Application
+1. Clone repo
+2. Import project in Andriod Studio
+3. Compile and run in andriod device
+
